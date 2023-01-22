@@ -1,3 +1,7 @@
+mod parser;
+mod tokenizer;
+
+
 fn main() {
-    println!("Hello, from our compiler");
+    
 }
